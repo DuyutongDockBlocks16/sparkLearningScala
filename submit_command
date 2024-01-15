@@ -1,0 +1,4 @@
+spark-submit   \
+    --master local[*]  \
+    --class org.example.wc.spark01_WordCount   \
+    /mnt/d/0x04_development/spark_learning/spark_learning/spark_core/target/spark_core-1.0-SNAPSHOT.jar
