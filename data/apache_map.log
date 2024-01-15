@@ -1,0 +1,5 @@
+[15/Jan/2024:14:30:45 +0000] GET /index.html HTTP/1.1
+[15/Jan/2024:14:32:12 +0000] POST /login HTTP/1.1
+[15/Jan/2024:14:34:57 +0000] GET /products/12345 HTTP/1.1
+[15/Jan/2024:14:36:28 +0000] PUT /api/update/6789 HTTP/1.1
+[15/Jan/2024:14:40:09 +0000] GET /about-us HTTP/1.1
