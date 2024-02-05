@@ -13,7 +13,7 @@ object glom {
 
     val rdd_2: RDD[Array[Int]] = rdd.glom()
 
-    rdd_2.collect().foreach(data=>println(data.mkString(",")))
+    rdd_2.collect().foreach(data=>println(data.mkString("|")))
 
 
   }
