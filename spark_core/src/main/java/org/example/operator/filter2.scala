@@ -21,8 +21,6 @@ object filter2 {
 
     filtered_data.collect().foreach(println)
 
-
-
   }
 
 }
